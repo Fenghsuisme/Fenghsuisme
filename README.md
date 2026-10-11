@@ -6,7 +6,7 @@
 - 🔐 最近在做一個抓程式碼漏洞的 AI reviewer
 - 🎓 NUK CSIE ing
 - 🧪 我好想趕快上岸啊啊啊啊啊 
-- 💬 想聊天或一起做東西：louishus358@gmail.com
+- 💬 想聊天或一起做東西：louishsu358@gmail.com
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,nodejs,postgres,docker,linux,cpp,php,java,net" />
 
